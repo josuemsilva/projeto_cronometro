@@ -45,14 +45,12 @@ class App extends Component {
     return (
       <div className="container">
         <img src={require("./assets/cronometro.png")} alt="" className="img" />
-        <a href="$" className="timer">
-          {this.state.numero.toFixed(1)}
-        </a>
+        <a className="timer">{this.state.numero.toFixed(1)}</a>
         <div className="areaBtn">
-          <a href="$" className="botao" onClick={this.comecar}>
+          <a className="botao" onClick={this.comecar}>
             {this.state.botao}
           </a>
-          <a href="$" className="botao" onClick={this.limpar}>
+          <a className="botao" onClick={this.limpar}>
             LIMPAR
           </a>
         </div>
