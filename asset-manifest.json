@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projeto_cronometro/static/css/main.6a777517.css",
+    "main.js": "/projeto_cronometro/static/js/main.4f8da9c5.js",
+    "static/media/cronometro.png": "/projeto_cronometro/static/media/cronometro.910ec1f0ccef27233284.png",
+    "index.html": "/projeto_cronometro/index.html",
+    "main.6a777517.css.map": "/projeto_cronometro/static/css/main.6a777517.css.map",
+    "main.4f8da9c5.js.map": "/projeto_cronometro/static/js/main.4f8da9c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a777517.css",
+    "static/js/main.4f8da9c5.js"
+  ]
+}
